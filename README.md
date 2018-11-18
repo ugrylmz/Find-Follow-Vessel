@@ -1,5 +1,5 @@
 # VesselFind-Follow
-This website developed for finding location on live map the specific vessel and follow it.
+This website developed to find and follow  specific vessel's location on live map.
 
  <div class="container">
         <div class="row">
